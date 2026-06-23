@@ -16,15 +16,7 @@ import "../styles/layout.scss";
 
 const { Sider, Header, Content } = Layout;
 
-const pageTitles: Record<string, { title: string; subtitle: string }> = {
-  "/dashboard": { title: "Dashboard", subtitle: "Overview of your clinic" },
-  "/doctors": { title: "Doctors", subtitle: "Manage your medical staff" },
-  "/patients": { title: "Patients", subtitle: "Manage patient records" },
-  "/appointments": {
-    title: "Appointments",
-    subtitle: "Manage bookings & schedules",
-  },
-};
+
 
 const AppLayout = () => {
   const navigate = useNavigate();
