@@ -1,0 +1,5 @@
+[build]
+dockerfilePath = "src/ClinicApp.API/Dockerfile"
+
+[deploy]
+startCommand = "dotnet ClinicApp.API.dll"
