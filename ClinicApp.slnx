@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinicApp.API/ClinicApp.API.csproj" />
+    <Project Path="src/ClinicApp.Application/ClinicApp.Application.csproj" />
+    <Project Path="src/ClinicApp.Domain/ClinicApp.Domain.csproj" />
+    <Project Path="src/ClinicApp.Infrastructure/ClinicApp.Infrastructure.csproj" />
+    <Project Path="src/ClinicApp.Shared/ClinicApp.Shared.csproj" />
+  </Folder>
+</Solution>

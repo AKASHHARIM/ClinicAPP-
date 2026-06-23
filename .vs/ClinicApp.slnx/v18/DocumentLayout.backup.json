@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\My Projects\\ClinicAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\dashboard\\queries\\getdashboardstatsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\dashboard\\queries\\getdashboardstatsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\appointments\\commands\\createappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\appointments\\commands\\createappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\appointments\\queries\\getappointmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\appointments\\queries\\getappointmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\patients\\queries\\getpatientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\patients\\queries\\getpatientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\patients\\commands\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\patients\\commands\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.shared\\dtos\\appointment\\appointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|solutionrelative:src\\clinicapp.shared\\dtos\\appointment\\appointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\doctors\\queries\\getdoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\doctors\\queries\\getdoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\features\\doctors\\commands\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\features\\doctors\\commands\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\clinicapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\clinicapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.shared\\dtos\\doctor\\doctordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|solutionrelative:src\\clinicapp.shared\\dtos\\doctor\\doctordtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.shared\\wrappers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|solutionrelative:src\\clinicapp.shared\\wrappers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.shared\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB9C5F3-DBB9-EA70-ED85-95B646A8DA57}|src\\ClinicApp.Shared\\ClinicApp.Shared.csproj|solutionrelative:src\\clinicapp.shared\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9616F3F-2FA0-E420-298F-403B1576A526}|src\\ClinicApp.Infrastructure\\ClinicApp.Infrastructure.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9616F3F-2FA0-E420-298F-403B1576A526}|src\\ClinicApp.Infrastructure\\ClinicApp.Infrastructure.csproj|solutionrelative:src\\clinicapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9616F3F-2FA0-E420-298F-403B1576A526}|src\\ClinicApp.Infrastructure\\ClinicApp.Infrastructure.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9616F3F-2FA0-E420-298F-403B1576A526}|src\\ClinicApp.Infrastructure\\ClinicApp.Infrastructure.csproj|solutionrelative:src\\clinicapp.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9616F3F-2FA0-E420-298F-403B1576A526}|src\\ClinicApp.Infrastructure\\ClinicApp.Infrastructure.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9616F3F-2FA0-E420-298F-403B1576A526}|src\\ClinicApp.Infrastructure\\ClinicApp.Infrastructure.csproj|solutionrelative:src\\clinicapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.application\\common\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DFAE7D-5F88-5757-DF06-562BBD6791CD}|src\\ClinicApp.Application\\ClinicApp.Application.csproj|solutionrelative:src\\clinicapp.application\\common\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\entities\\doctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\entities\\doctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\clinicapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\clinicapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6957D80A-BC0E-39B3-7849-21903124D918}|src\\ClinicApp.Domain\\ClinicApp.Domain.csproj|solutionrelative:src\\clinicapp.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|d:\\documents\\my projects\\clinicapp\\src\\clinicapp.api\\clinicapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{539A7440-B999-0617-C0F5-DA2C815A855C}|src\\ClinicApp.API\\ClinicApp.API.csproj|solutionrelative:src\\clinicapp.api\\clinicapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:02:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDashboardStatsQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Dashboard\\Queries\\GetDashboardStatsQuery.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Dashboard\\Queries\\GetDashboardStatsQuery.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Dashboard\\Queries\\GetDashboardStatsQuery.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Dashboard\\Queries\\GetDashboardStatsQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:02:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:14:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAppointmentsQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Appointments\\Queries\\GetAppointmentsQuery.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Appointments\\Queries\\GetAppointmentsQuery.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Appointments\\Queries\\GetAppointmentsQuery.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Appointments\\Queries\\GetAppointmentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:14:05.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAppointmentCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Appointments\\Commands\\CreateAppointmentCommand.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Appointments\\Commands\\CreateAppointmentCommand.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Appointments\\Commands\\CreateAppointmentCommand.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Appointments\\Commands\\CreateAppointmentCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:12:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:09:51.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPatientsQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Patients\\Queries\\GetPatientsQuery.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Patients\\Queries\\GetPatientsQuery.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Patients\\Queries\\GetPatientsQuery.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Patients\\Queries\\GetPatientsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:07:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePatientCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Patients\\Commands\\CreatePatientCommand.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Patients\\Commands\\CreatePatientCommand.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Patients\\Commands\\CreatePatientCommand.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Patients\\Commands\\CreatePatientCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:06:34.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentDtos.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\DTOs\\Appointment\\AppointmentDtos.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Shared\\DTOs\\Appointment\\AppointmentDtos.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\DTOs\\Appointment\\AppointmentDtos.cs",
+              "RelativeToolTip": "src\\ClinicApp.Shared\\DTOs\\Appointment\\AppointmentDtos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:03:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:55:11.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDoctorCommand.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:54:38.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDoctorsQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:52:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:50:39.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorDtos.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\DTOs\\Doctor\\DoctorDtos.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Shared\\DTOs\\Doctor\\DoctorDtos.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\DTOs\\Doctor\\DoctorDtos.cs",
+              "RelativeToolTip": "src\\ClinicApp.Shared\\DTOs\\Doctor\\DoctorDtos.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:49:41.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\ClinicApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T05:41:16.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:37:50.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\appsettings.json",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\appsettings.json",
+              "RelativeToolTip": "src\\ClinicApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-20T07:10:46.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T07:09:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T07:02:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClinicApp.Application",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\ClinicApp.Application.csproj",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\ClinicApp.Application.csproj",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\ClinicApp.Application.csproj*",
+              "RelativeToolTip": "src\\ClinicApp.Application\\ClinicApp.Application.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T06:52:21.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Shared\\DTOs\\AuthDtos.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "src\\ClinicApp.Shared\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:36:22.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\Wrappers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Shared\\Wrappers\\ApiResponse.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Shared\\Wrappers\\ApiResponse.cs",
+              "RelativeToolTip": "src\\ClinicApp.Shared\\Wrappers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:37:17.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ClinicApp.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T07:01:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "src\\ClinicApp.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T07:00:32.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\ClinicApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:58:38.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\Program.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\Program.cs",
+              "RelativeToolTip": "src\\ClinicApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:20:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Common\\Interfaces\\IServices.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Application\\Common\\Interfaces\\IServices.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Application\\Common\\Interfaces\\IServices.cs",
+              "RelativeToolTip": "src\\ClinicApp.Application\\Common\\Interfaces\\IServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:53:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:44:06.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\Entities\\Patient.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:43:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorSchedule.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\DoctorSchedule.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\Entities\\DoctorSchedule.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\DoctorSchedule.cs",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\Entities\\DoctorSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:43:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:42:43.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\Enums\\Enums.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:38:15.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:37:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClinicApp.Domain",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\ClinicApp.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\ClinicApp.Domain\\ClinicApp.Domain.csproj",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.Domain\\ClinicApp.Domain.csproj",
+              "RelativeToolTip": "src\\ClinicApp.Domain\\ClinicApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T06:34:13.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ClinicApp.API",
+              "DocumentMoniker": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\ClinicApp.API.csproj",
+              "RelativeDocumentMoniker": "src\\ClinicApp.API\\ClinicApp.API.csproj",
+              "ToolTip": "D:\\Documents\\My Projects\\ClinicAPP\\src\\ClinicApp.API\\ClinicApp.API.csproj",
+              "RelativeToolTip": "src\\ClinicApp.API\\ClinicApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T06:19:18.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

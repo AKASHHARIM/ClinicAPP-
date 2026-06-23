@@ -1,0 +1,17 @@
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Application.deps.json
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Application.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Application.pdb
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Domain.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Shared.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Domain.pdb
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\bin\Debug\net8.0\ClinicApp.Shared.pdb
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.csproj.AssemblyReference.cache
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.AssemblyInfoInputs.cache
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.AssemblyInfo.cs
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.csproj.CoreCompileInputs.cache
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicAp.EADEBA30.Up2Date
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\refint\ClinicApp.Application.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.pdb
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ref\ClinicApp.Application.dll

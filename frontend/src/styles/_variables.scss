@@ -1,0 +1,31 @@
+// Brand colors
+$primary: #4338ca;
+$primary-light: #6a5ff5;
+$primary-dark: #322a99;
+
+$bg-page: #f5f5f7;
+$bg-card: #ffffff;
+$bg-muted: #f8f8fb;
+
+$text-primary: #1a1a2e;
+$text-secondary: #6b6b80;
+$text-muted: #9a9aab;
+
+$border-color: #e8e8ee;
+
+$success: #16a34a;
+$warning: #d97706;
+$danger: #dc2626;
+$info: #2563eb;
+
+$radius-sm: 8px;
+$radius-md: 12px;
+$radius-lg: 16px;
+
+$shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+$shadow-md: 0 8px 24px rgba(0, 0, 0, 0.08);
+$shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.12);
+
+$gradient-primary: linear-gradient(135deg, #{$primary-light}, #{$primary-dark});
+
+$font-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;

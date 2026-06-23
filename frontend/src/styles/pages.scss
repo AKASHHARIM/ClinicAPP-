@@ -1,0 +1,65 @@
+@use "./variables" as *;
+@use "./mixins" as *;
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 24px;
+
+  h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: $text-primary;
+    margin: 0;
+  }
+}
+
+button.page-add-btn,
+.page-add-btn.ant-btn-primary {
+  background: linear-gradient(135deg,
+    #{$primary-light},
+    #{$primary-dark}) !important;
+  background-color: $primary !important;
+  border: none !important;
+  font-weight: 500;
+  height: 38px;
+  box-shadow: $shadow-sm;
+}
+
+.styled-table {
+  .ant-table {
+    border-radius: $radius-md;
+    overflow: hidden;
+  }
+
+  .ant-table-thead>tr>th {
+    background: $bg-muted !important;
+    color: $text-secondary;
+    font-weight: 600;
+    font-size: 13px;
+    border-bottom: 1px solid $border-color !important;
+
+    &::before {
+      display: none;
+    }
+  }
+
+  .ant-table-tbody>tr>td {
+    border-bottom: 1px solid $border-color;
+    color: $text-primary;
+    font-size: 14px;
+  }
+
+  .ant-table-tbody>tr:hover>td {
+    background: $bg-muted !important;
+  }
+}
+
+.status-tag {
+  border-radius: 20px !important;
+  padding: 2px 12px !important;
+  font-weight: 500;
+  border: none !important;
+}

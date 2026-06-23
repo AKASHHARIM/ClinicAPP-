@@ -1,0 +1,136 @@
+@use './variables' as *;
+@use './mixins' as *;
+
+.auth-page {
+  min-height: 100vh;
+  width: 100%;
+  @include flex-center;
+  background: $bg-page;
+  padding: 40px;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 1200px;
+  min-height: 640px;
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  border-radius: $radius-lg;
+  overflow: hidden;
+  box-shadow: $shadow-lg;
+  background: $bg-card;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+}
+
+.auth-brand {
+  background: $gradient-primary;
+  padding: 48px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #fff;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+
+  &__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    .icon-box {
+      width: 38px;
+      height: 38px;
+      border-radius: $radius-sm;
+      background: rgba(255, 255, 255, 0.18);
+      @include flex-center;
+    }
+
+    span {
+      font-size: 17px;
+      font-weight: 600;
+    }
+  }
+
+  &__heading {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0 0 12px;
+  }
+
+  &__subtext {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.78);
+    margin: 0;
+  }
+
+  &__dots {
+    display: flex;
+    gap: 8px;
+
+    span {
+      height: 4px;
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.4);
+
+      &.active {
+        width: 28px;
+        background: #fff;
+      }
+
+      &:not(.active) {
+        width: 10px;
+      }
+    }
+  }
+}
+
+.auth-form-panel {
+  padding: 56px 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  @media (max-width: 768px) {
+    padding: 40px 28px;
+  }
+
+  h2 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0 0 4px;
+    color: $text-primary;
+  }
+
+  &__subtitle {
+    font-size: 14px;
+    color: $text-secondary;
+    margin: 0 0 28px;
+  }
+
+  &__submit {
+    background: $gradient-primary !important;
+    border: none !important;
+    font-weight: 600;
+    height: 44px;
+    margin-top: 8px;
+  }
+
+  &__footer {
+    font-size: 13px;
+    color: $text-secondary;
+    text-align: center;
+    margin-top: 20px;
+
+    a {
+      color: $primary;
+      font-weight: 600;
+    }
+  }
+}
