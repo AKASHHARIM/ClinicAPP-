@@ -65,10 +65,6 @@ const AppLayout = () => {
     }
   };
 
-  const current = pageTitles[location.pathname] ?? {
-    title: "Clinic Appointment System",
-    subtitle: "",
-  };
 
   return (
     <Layout className="app-shell">
