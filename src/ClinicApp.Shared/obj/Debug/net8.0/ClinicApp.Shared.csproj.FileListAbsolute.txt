@@ -9,3 +9,4 @@ D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Shared\obj\Debug\net8.0\ClinicA
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Shared\obj\Debug\net8.0\refint\ClinicApp.Shared.dll
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Shared\obj\Debug\net8.0\ClinicApp.Shared.pdb
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Shared\obj\Debug\net8.0\ref\ClinicApp.Shared.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Shared\obj\Debug\net8.0\ClinicApp.Shared.sourcelink.json

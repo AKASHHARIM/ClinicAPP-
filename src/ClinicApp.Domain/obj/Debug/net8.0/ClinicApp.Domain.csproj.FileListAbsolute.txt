@@ -9,3 +9,4 @@ D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Domain\obj\Debug\net8.0\ClinicA
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Domain\obj\Debug\net8.0\refint\ClinicApp.Domain.dll
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Domain\obj\Debug\net8.0\ClinicApp.Domain.pdb
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Domain\obj\Debug\net8.0\ref\ClinicApp.Domain.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Domain\obj\Debug\net8.0\ClinicApp.Domain.sourcelink.json

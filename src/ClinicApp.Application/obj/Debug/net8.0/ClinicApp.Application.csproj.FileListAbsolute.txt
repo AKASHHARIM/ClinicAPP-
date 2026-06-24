@@ -15,3 +15,4 @@ D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\Cl
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\refint\ClinicApp.Application.dll
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.pdb
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ref\ClinicApp.Application.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Application\obj\Debug\net8.0\ClinicApp.Application.sourcelink.json

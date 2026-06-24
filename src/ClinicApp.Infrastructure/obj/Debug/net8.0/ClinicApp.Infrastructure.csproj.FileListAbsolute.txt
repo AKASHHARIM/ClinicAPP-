@@ -19,3 +19,4 @@ D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Infrastructure\obj\Debug\net8.0
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Infrastructure\obj\Debug\net8.0\ClinicApp.Infrastructure.pdb
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Infrastructure\obj\Debug\net8.0\ClinicApp.Infrastructure.genruntimeconfig.cache
 D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Infrastructure\obj\Debug\net8.0\ref\ClinicApp.Infrastructure.dll
+D:\Documents\My Projects\ClinicAPP\src\ClinicApp.Infrastructure\obj\Debug\net8.0\ClinicApp.Infrastructure.sourcelink.json

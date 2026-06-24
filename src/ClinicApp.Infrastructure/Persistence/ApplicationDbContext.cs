@@ -1,5 +1,6 @@
 ﻿using ClinicApp.Application.Common.Interfaces;
 using ClinicApp.Domain.Entities;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -23,6 +24,11 @@ public class ApplicationDbContext : IdentityDbContext, IApplicationDbContext
         builder.Entity<Doctor>().HasQueryFilter(d => !d.IsDeleted);
         builder.Entity<Patient>().HasQueryFilter(p => !p.IsDeleted);
         builder.Entity<Appointment>().HasQueryFilter(a => !a.IsDeleted);
+
+        builder.Entity<IdentityRole>().HasData(
+            new IdentityRole { Id = "1", Name = "Admin", NormalizedName = "ADMIN", ConcurrencyStamp = "1" },
+            new IdentityRole { Id = "2", Name = "Doctor", NormalizedName = "DOCTOR", ConcurrencyStamp = "2" },
+            new IdentityRole { Id = "3", Name = "Patient", NormalizedName = "PATIENT", ConcurrencyStamp = "3" });
     }
 
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
